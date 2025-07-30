@@ -1,7 +1,4 @@
-Course: CS 3503 – Computer Organization & Architecture
-Author: Josue Palacios
-
-This project showcases a fully functional 8-bit binary calculator built in CircuitVerse, designed to perform fundamental arithmetic operations at the logic gate level. The project demonstrates a deep understanding of digital logic, combinational and sequential circuit design, and modular subcircuit construction.
+This project showcases a fully functional 8-bit binary calculator built in CircuitVerse, designed to perform fundamental arithmetic operations at the logic gate level. The project demonstrates an understanding of digital logic, combinational and sequential circuit design, and modular subcircuit construction.
 
 Features & Modules
   8-Bit Ripple-Carry Adder: Constructed using chained full-adders; verified via truth tables and binary test cases.
